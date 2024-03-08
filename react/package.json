@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^1.6.4",
+    "redux": "^5.0.1"
+  },
+  "name": "react",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
